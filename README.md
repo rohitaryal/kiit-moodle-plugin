@@ -6,7 +6,7 @@
  ### 📸 Screenshot?
 <p align="center">
     <img src="./img/img1.png" height="300px" title="Why, once I met this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy who knew this guy's cousin... 👀">
-    <br>
+    <br><br>
     The minority of the fancy features are not functioning properly, and this is more accurately detailed in the TODO section below 👇
 </p>
 
@@ -20,6 +20,7 @@
     - ![Edge](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_16x16.png) [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhhkcnkncnogfoefnondnaogonpedlnh) or
     - ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_16x16.png) [Tampermonkey](https://apps.apple.com/app/tampermonkey/id1482490089) or
     - ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png) [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/)
+<br>
 
     > I recommend using tampermonkey to prevent any api issues (*untested*).
 
