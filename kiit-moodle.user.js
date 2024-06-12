@@ -671,7 +671,7 @@ hr {
 
                     let prompt = question + options;
 
-                    const apiKey      = 'AIzaSyCrFqE3hQJh8Ni9XAzDRTETYrzgXSqQ8EA';
+                    const apiKey      = 'AIzaSyBtF3z9XqI9J8NEX0DNft7lQGngJ4w5KUM';
                     const url         = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
                     let   answerPlace = element.querySelector("#chatGPTAnswer");
 
