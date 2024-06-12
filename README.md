@@ -26,7 +26,7 @@
 2. **And install the script** (*from any one*)
     - ![Greasy Fork](https://www.google.com/s2/favicons?sz=16&domain=greasyfork.org) [Greasyfork.org](https://greasyfork.org/en/scripts/485024-kiit-moodle) or
 
-    - ![GitHub](https://www.google.com/s2/favicons?sz=8&domain=github.com) [Github](https://github.com/rohitaryal/kiit-moodle-plugin/raw/main/kiit-moodle-plugin.user.js)
+    - ![GitHub](https://www.google.com/s2/favicons?sz=8&domain=github.com) [Github](https://github.com/rohitaryal/kiit-moodle-plugin/raw/main/kiit-moodle.user.js)
 
 
 3. **(Optional)** If you want to check the script performance then goto [KiitMoodle.in](https://kiitmoodle.in/). Open your past test exams(in review mode) and you will see a setting icon at top right of your moodle page 👍
