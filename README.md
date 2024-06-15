@@ -21,8 +21,8 @@
     - ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_16x16.png) [Tampermonkey](https://apps.apple.com/app/tampermonkey/id1482490089) or
     - ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png) [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/)
 <br>
-
-    > I recommend using tampermonkey to prevent any api issues (*untested*).
+> [!TIP]
+> I recommend using tampermonkey to prevent any api issues. *Tested with violent monkey had some issues*.
 
 2. **And install the script** (*from any one*)
     - ![Greasy Fork](https://www.google.com/s2/favicons?sz=16&domain=greasyfork.org) [Greasyfork.org](https://greasyfork.org/en/scripts/485024-kiit-moodle) or
