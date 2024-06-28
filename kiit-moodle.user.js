@@ -3,7 +3,7 @@
 // @namespace    https://kiitmoodle.in/*
 // @version      v1.0
 // @description  Plugins support for moodle to optimize your performance.
-// @author       erucix
+// @author       rohitaryal
 // @match        https://kiitmoodle.in/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kiitmoodle.in
 // @license      MIT
